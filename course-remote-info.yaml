@@ -1,0 +1,85 @@
+hyperskill_project:
+  id: 76
+  ide_files: https://stepik.org/media/attachments/lesson/247701/additional_files.json
+  is_template_based: false
+stages:
+- id: 421
+  step: 7024
+- id: 422
+  step: 7025
+- id: 423
+  step: 7026
+- id: 424
+  step: 7027
+- id: 425
+  step: 7028
+topics:
+  0:
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: Units of information
+    theory_id: 6865
+  - title: Binary numbers
+    theory_id: 5544
+  - title: Command line overview
+    theory_id: 6577
+  - title: Introduction to Java
+    theory_id: 3500
+  - title: Basic literals
+    theory_id: 3522
+  - title: The first program
+    theory_id: 3521
+  - title: Printing data
+    theory_id: 3749
+  - title: Types and variables
+    theory_id: 3518
+  - title: Primitive and reference types
+    theory_id: 5035
+  - title: Array
+    theory_id: 3511
+  - title: Comments
+    theory_id: 3520
+  - title: Naming variables
+    theory_id: 3513
+  - title: Arithmetic operations
+    theory_id: 3519
+  - title: Write, compile and run
+    theory_id: 3739
+  - title: JVM, JRE and JDK
+    theory_id: 3499
+  - title: Sizes and ranges
+    theory_id: 3532
+  - title: Type casting
+    theory_id: 3510
+  - title: Running programs on your computer
+    theory_id: 3746
+  - title: Scanning the input
+    theory_id: 3603
+  2:
+  - title: Basics of collections
+    theory_id: 3591
+  - title: Set
+    theory_id: 3575
+  - title: Map
+    theory_id: 3558
+  3:
+  - title: Hierarchy of exceptions
+    theory_id: 3570
+  - title: Exception handling
+    theory_id: 3552
+  - title: Files
+    theory_id: 3635
+  - title: Reading files
+    theory_id: 3636
+  - title: Managing files
+    theory_id: 3648
+  - title: Writing files
+    theory_id: 3652
+  - title: Package
+    theory_id: 3621
+  - title: Access modifiers
+    theory_id: 3589
+  - title: Getters and setters
+    theory_id: 3599
+  - title: Inheritance
+    theory_id: 3583
